@@ -14,6 +14,7 @@
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 #
 #
+# project address: https://github.com/Leo-Shogun/GIPP
 # code name: 3D_Block_Layer_Visualization.py
 # author: Xinrui LIU
 # author: Xinzhe LIU, School of Architecture, Southeast University, Nanjing, China
